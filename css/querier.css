@@ -1,0 +1,7 @@
+@media(max-width:1165px){
+.container{
+grid-template-columns: 1fr;
+width: 40rem;
+margin: 2rem;
+}
+}
